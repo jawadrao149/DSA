@@ -14,4 +14,4 @@ task4.cpp reads 8 integers into an array. Finds and displays the largest and sma
 
 task6.cpp reads 6 elemnets from the user into an array annd reverses it and displays the reversed array.
 
-task7.cpp reads 10 elements from the user and then takes all the unique elements and puts them at the start preserving the original ordfer and displays the unique elements and the total amount of unique elements.
+task7.cpp reads 10 elements from the user and then takes all the unique elements and puts them at the start preserving the original ordfer and displays the unique elements and the total amount of unique elements.# DSA
